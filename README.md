@@ -1,5 +1,5 @@
 ﻿# Ambee_Task
-End-to-end MEAN app
+End-to-end MEAN app with microservice concept
 
 
 
